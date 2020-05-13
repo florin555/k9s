@@ -4,14 +4,14 @@ k9s:
     bgColor: default
     logoColor: orange
   info:
-    fgColor: white
+    fgColor: black
     sectionColor: dodgerblue
   frame:
     border:
       fgColor: dodgerblue
       focusColor: aqua
     menu:
-      fgColor: white
+      fgColor: black
       keyColor: dodgerblue
       numKeyColor: fuchsia
     crumbs:
@@ -21,7 +21,7 @@ k9s:
     status:
       newColor: lightskyblue
       modifyColor: greenyellow
-      addColor: white
+      addColor: black
       errorColor: orangered
       highlightcolor: aqua
       killColor: mediumpurple
@@ -47,7 +47,7 @@ k9s:
       cursorColor: aqua
       markColor: darkgoldenrod
       header:
-        fgColor: white
+        fgColor: black
         bgColor: default
         sorterColor: orange
     xray:
@@ -58,10 +58,10 @@ k9s:
       showIcons: false
     yaml:
       keyColor: steelblue
-      colonColor: white
+      colonColor: black
       valueColor: papayawhip
     logs:
-      fgColor: white
+      fgColor: black
       bgColor: default
       indicator:
         fgColor: dodgerblue
