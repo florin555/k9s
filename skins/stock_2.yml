@@ -61,8 +61,8 @@ k9s:
       colonColor: white
       valueColor: papayawhip
     logs:
-      fgColor: white
-      bgColor: black
+      fgColor: default
+      bgColor: default
       indicator:
         fgColor: dodgerblue
-        bgColor: black
+        bgColor: default
